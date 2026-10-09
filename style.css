@@ -9,6 +9,10 @@ margin: 20 px
     flex-direction: center;
     flex-wrap: wrap-reverse;
 }
+.box{
+    display:grid;
+    background-color:green;
+}
 h1{
 color: black; 
 text-align: center;

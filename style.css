@@ -3,7 +3,9 @@ background-color: pink ;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin: 20 px
 }
-
+.container{
+    display: grid;
+}
 h1{
 color: black; 
 text-align: center;

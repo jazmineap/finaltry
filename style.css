@@ -5,6 +5,11 @@ margin: 20 px
 }
 .container{
     display: grid;
+    background-color:blue;
+    flex-direction: center;
+    flex-wrap: wrap-reverse;
+}
+    
 }
 h1{
 color: black; 
